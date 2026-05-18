@@ -1,2 +1,14 @@
-# RiKard-Group-Of-Industries
-Official corporate website for Rikard Group of Industries showcasing services, projects, and company information.
+
+# Rikard Group Website
+
+## Run Locally
+
+npm install
+npm run dev
+
+## Build
+
+npm run build
+
+## Deploy
+Upload directly to GitHub and connect with Vercel or Netlify.
